@@ -1,0 +1,39 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment variable files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore execution-generated folders
+vector_db/
+
+# Ignore log files
+*.log
+
+# Ignore any temporary or backup files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Ignore root and parent-level .DS_Store
+../../.DS_Store
+../.DS_Store
+
+# Optional: Ignore compiled Python binaries or C extensions
+*.so
+
+# Optional: Ignore notebook outputs (if you want cleaner diffs)
+# You could consider using a Jupyter-specific pre-commit hook instead
