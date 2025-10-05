@@ -1,6 +1,5 @@
 # LLMEngineering
 
-
 🚀 LLM Engineering
 
 A hands-on repository for Large Language Model (LLM) Engineering, covering end-to-end concepts, implementations, and real-world applications.
@@ -10,17 +9,11 @@ This repo is designed for practitioners and learners who want to build, fine-tun
 📌 Features
 
 📖 Fundamentals of LLMs and Transformer architecture
-
 🔧 Fine-tuning & prompt engineering examples
-
 🛠️ RAG (Retrieval-Augmented Generation) pipelines
-
 🌐 LLMOps (deployment, monitoring, scaling)
-
 🤖 Agentic AI workflows using LangChain / LangGraph
-
 🧩 Custom utilities for dataset preparation and evaluation
-
 📊 Experiment tracking with MLflow / Weights & Biases
 
 📂 Repository Structure
@@ -55,43 +48,28 @@ jupyter notebook notebooks/01_intro_to_llm.ipynb
 📘 Tutorials & Guides
 
 Introduction to Transformers
-
 Fine-tuning LLaMA / Mistral
-
 Building a RAG pipeline
-
 Deploying with FastAPI & Docker
-
 Monitoring with Prometheus & Grafana
 
 🤝 Contributing
-
 Contributions are welcome! If you’d like to add examples, fix bugs, or improve docs:
 
 Fork the repo
-
 Create a new branch (feature/your-feature)
-
 Commit changes and push
-
 Open a Pull Request
 
 📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
-
 🙌 Acknowledgments
-
 Hugging Face 🤗 Transformers
-
 LangChain / LangGraph
-
 PyTorch / TensorFlow
-
 OpenAI / Mistral / LLaMA
 
-
 /Users/prax/AutomationActivities/DataScience/LLMEngineering
-
 conda activate torchenv
